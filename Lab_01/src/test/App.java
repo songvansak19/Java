@@ -65,7 +65,7 @@ public class App {
             new JButton("Result")
         };
         for (JButton drawer : drawers) {
-            drawer.setBackground(Color.BLUE);
+            drawer.setBackground(Color.PINK);
             drawer.setForeground(Color.WHITE);
             acc.add(drawer);
         }
