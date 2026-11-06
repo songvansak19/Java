@@ -1,5 +1,3 @@
-package test;
-
 import java.awt.GridLayout;
 import java.util.ArrayList;
 import javax.swing.JButton;
